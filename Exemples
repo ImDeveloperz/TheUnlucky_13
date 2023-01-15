@@ -1,0 +1,10 @@
+# TheUnlucky_13
+examples__:
+
+N = 2 nbr total is 10^2 = 100 and nombre of 13 possible is 1 so the resultat well be 99
+
+N = 3 nombre total of  possibilities is 10^3 = 1000 nombre of 13 is :
+premier cas '13X' => 10 possibilite, cas 2 'X13' => 10 so the resultat well be 1000 - 20 = 980
+ 
+N = 4 nbr total  is 10^4 = 10000 et nombre of '13' is : cas1 13XX => 
+99, cas2 X13X => 100, cas3 XX13 =>99 cas 4 1313 =>1 so the resultat well be 10000 - 99 - 99 - 100 - 1 = 9701
